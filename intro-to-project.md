@@ -8,6 +8,9 @@ This is the PowerPoint file that introduces the project that I created.
 ## uni_tables_creation.sql
 This SQL file is where I create the tables for the database and set the necessary primary and foreign keys.
 
+## uni-eer
+An EER diagram that shows the relationships between the tables.
+
 ## uni_functions_procedures.sql
 This SQL file is where I create the stored functions and procedures for this database.
 
